@@ -1,0 +1,42 @@
+{
+  "todos": [
+    {
+      "id": 7,
+      "title": "Flat car tyre",
+      "description": "Figure it out buddy",
+      "categoryId": 2,
+      "completed": false
+    },
+    {
+      "title": "Leaking sink",
+      "categoryId": 1,
+      "description": "Figure it out buddy",
+      "completed": true,
+      "id": 8
+    },
+    {
+      "title": "Buy groceries",
+      "categoryId": 2,
+      "description": "Check your email for more details",
+      "completed": true,
+      "id": 9
+    },
+    {
+      "title": "Updated title 2",
+      "categoryId": 1,
+      "description": "Updated description 2",
+      "completed": true,
+      "id": 10
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "Important"
+    },
+    {
+      "id": 2,
+      "title": "Unimportant"
+    }
+  ]
+}
